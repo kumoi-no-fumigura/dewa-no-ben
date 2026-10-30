@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/dewa-no-ben",
  "yomi": "でわのべんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "出羽弁",
+  "desc": "上東門院らに仕えた出羽弁の家集。正月の里居の歌に始まり、身内や同僚との贈答を収める。奥書に寛政2年（1790）の書写を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1162,6 +1167,6 @@
   "poems": 98,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
